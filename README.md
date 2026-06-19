@@ -1,4 +1,4 @@
-# 🤖 Portfolio: Natural Language Processing (NLP) & Large Language Models
+# Portfolio: Natural Language Processing (NLP) & Large Language Models
 
 Este repositorio centraliza mis desarrollos en **Procesamiento de Lenguaje Natural (NLP)** y **Modelos de Lenguaje Masivos (LLMs)**, estructurados bajo la metodología **CRISP-DM**. 
 
@@ -6,7 +6,7 @@ Más allá de la implementación técnica de arquitecturas avanzadas, este porta
 
 ---
 
-## 💼 El Valor del NLP en el Entorno Empresarial
+##  El Valor del NLP en el Entorno Empresarial
 
 En el mercado actual, más del 80% de los datos de una empresa (reseñas, correos, minutas, reportes) son no estructurados. Implementar soluciones robustas de NLP permite transformar ese texto libre en ventajas competitivas medibles:
 
@@ -21,27 +21,6 @@ En el mercado actual, más del 80% de los datos de una empresa (reseñas, correo
 - **Librerías Core de NLP:** Hugging Face (`transformers`), Spacy, NLTK, Scikit-learn.
 - **Modelos & Arquitecturas:** BERT, Gemma 3 (vía Ollama), Word2Vec, TF-IDF.
 - **Infraestructura & Datos:** MongoDB, Pandas, NumPy, Docker, Proxmox (AI Clusters).
-
----
-
-## 📂 Proyectos Incluidos
-
-A continuación se detallan los notebooks y desarrollos incluidos en este portafolio:
-
-### 1. Análisis de Sentimientos y Tópicos a Gran Escala (Gemma 3 + MongoDB)
-* **Carpeta / Archivo:** `[Enlace a tu notebook o carpeta]`
-* **Descripción:** Procesamiento, limpieza y análisis de más de 100,000 reseñas de hospedajes. Implementa un pipeline local para identificar la polaridad del texto y agrupar las principales quejas o sugerencias de los usuarios.
-* **Enfoque Técnico:** Orquestación con MongoDB para almacenamiento eficiente, despliegue local de **Gemma 3 (12B)** mediante Ollama y optimización de prompts para extracción estructurada de entidades.
-
-### 2. Clasificación Avanzada de Texto con Arquitecturas BERT
-* **Carpeta / Archivo:** `[Enlace a tu notebook o carpeta]`
-* **Descripción:** Modelo predictivo diseñado para clasificar texto complejo basado en contextos semánticos profundos.
-* **Enfoque Técnico:** Fine-tuning de un modelo basado en **BERT** utilizando PyTorch/Hugging Face, manejo de embeddings densos y optimización de hiperparámetros para mitigar el sobreajuste (*overfitting*) en datasets desbalanceados.
-
-### 3. Minería de Texto Clásica y Procesamiento Base (EDA)
-* **Carpeta / Archivo:** `[Enlace a tu notebook o carpeta]`
-* **Descripción:** Pipeline de preprocesamiento estándar para la normalización de texto sucio antes de ser introducido a modelos de Machine Learning.
-* **Enfoque Técnico:** Tokenización, remoción de *stopwords*, lematización/stemming, vectorización avanzada (TF-IDF, Bag of Words) y reducción de dimensionalidad para visualización de clusters de texto.
 
 ---
 
