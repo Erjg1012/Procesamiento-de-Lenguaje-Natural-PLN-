@@ -16,7 +16,7 @@ En el mercado actual, más del 80% de los datos de una empresa (reseñas, correo
 * **Sistemas de Recomendación Inteligentes:** Al extraer el contexto semántico profundo de las opiniones de los usuarios, se pueden construir motores de recomendación hiper-personalizados que impactan directamente en el incremento del ticket promedio y la fidelización.
 
 ---
-## 🛠️ Stack Tecnológico General
+##  Stack Tecnológico General
 - **Lenguajes & Entornos:** Python (Google Colab, Jupyter Notebooks), Linux (Ubuntu/Pop!_OS).
 - **Librerías Core de NLP:** Hugging Face (`transformers`), Spacy, NLTK, Scikit-learn.
 - **Modelos & Arquitecturas:** BERT, Gemma 3 (vía Ollama), Word2Vec, TF-IDF.
